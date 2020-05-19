@@ -1,0 +1,12 @@
+Popovych Sophia 18 2020 12900
+Karabin Mariana 19 2020 17900
+Stetsa Ira 21 2017 12000
+Adamovych Alisa 24 2016 13000,3
+Kolos Oleg 25 2016 19800
+Voloshyn Marta 26 2019 14600
+Malyk Julia 28 2017 14000
+Lynda Katya 30 2019 18700
+Turyk Solomia 31 2018 18000
+Fulys Olena 32 2018 17500
+Koval Oksana 36 2018 10000,5
+Vezdenko Maria 40 2019 16450
